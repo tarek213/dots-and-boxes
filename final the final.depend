@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513970226 source:d:\1st sem\project programming\final the final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<dos.h>
+	<mmsystem.h>
+	<string.h>
+
+1513970226 source:c:\users\hp\desktop\dots and boxes project\final the final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<dos.h>
+	<mmsystem.h>
+	<string.h>
+
